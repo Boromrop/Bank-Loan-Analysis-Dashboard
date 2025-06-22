@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis-Dashboard# Bank Loan Analysis Dashboard
+# Bank Loan Analysis Dashboard
 
 ![Dashboard Preview](images/dashboard-preview.png)
 
