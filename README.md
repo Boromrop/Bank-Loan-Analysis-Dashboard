@@ -1,7 +1,5 @@
 # Bank Loan Analysis Dashboard
 
-![Dashboard Preview](images/dashboard-preview.png)
-
 A Power BI dashboard for analyzing bank loan data with comprehensive insights into loan performance, risk assessment, and business metrics.
 
 ## Overview
